@@ -1,10 +1,9 @@
 ---
 title: vim格式对齐命令
 date: 2021-02-20 22:05:11
-categories: blog
+categories: linux
 author: ChrisZSY
 tags:
-	- linux
 	- linux基础
 	- linux命令
 ---
